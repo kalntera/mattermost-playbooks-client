@@ -16,7 +16,6 @@ import (
 	"strconv"
 
 	"github.com/google/go-querystring/query"
-	"github.com/mattermost/mattermost/server/public/model"
 	"github.com/pkg/errors"
 	"golang.org/x/oauth2"
 )
@@ -53,13 +52,13 @@ type Client struct {
 }
 
 // New creates a new instance of Client using the configuration from the given Mattermost Client.
-func New(client4 *model.Client4) (*Client, error) {
+func New(url, token string) (*Client, error) {
 	ctx := context.Background()
 	ts := oauth2.StaticTokenSource(
-		&oauth2.Token{AccessToken: client4.AuthToken},
+		&oauth2.Token{AccessToken: token},
 	)
 
-	return newClient(client4.URL, oauth2.NewClient(ctx, ts))
+	return newClient(url, oauth2.NewClient(ctx, ts))
 }
 
 // newClient creates a new instance of Client from the given URL and http.Client.
