@@ -2,10 +2,8 @@ github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-querystring v1.1.0 h1:AnCroh3fv4ZBgVIf1Iwtovgjaw/GiKJo8M8yD/fhyJ8=
 github.com/google/go-querystring v1.1.0/go.mod h1:Kcdr2DB4koayq7X8pmAG4sNG59So17icRSOU623lUBU=
-github.com/kalntera/oauth2 v0.0.0-20240122220119-9f323bb48e79 h1:YF0ytw4pDoadTEXchSIQ8eE9CPOU9E4uEcJ422EdYTo=
-github.com/kalntera/oauth2 v0.0.0-20240122220119-9f323bb48e79/go.mod h1:kb5Ubehe+EWZrDb4+erTz9CtsE//HqYxPX6Ae/lgpRQ=
-github.com/kalntera/oauth2 v0.0.0-20240122220840-b010a8601102 h1:AgmeYmXbgidwHPDwSNjUuvjMtgy0j5d+6EliykGjnRs=
-github.com/kalntera/oauth2 v0.0.0-20240122220840-b010a8601102/go.mod h1:c4DVRw5/7Ce6s2lgQNoUL94VBbg3PBQrOBQ5+96LbtI=
+github.com/kalntera/oauth2 v0.0.0-20240122224933-40a291d11bc8 h1:yptpdiXVK7U16OMXhGvS0K8S7EXkVfCS+gTdP+ez6h0=
+github.com/kalntera/oauth2 v0.0.0-20240122224933-40a291d11bc8/go.mod h1:rqS9DgDeKuGQrR5y5z811VOFbPwYAP39MCqdtbITWnA=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
