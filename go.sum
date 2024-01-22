@@ -1,12 +1,13 @@
-github.com/google/go-cmp v0.5.2 h1:X2ev0eStA3AbceY54o37/0PQ/UWqKEiiO2dKL5OPaFM=
 github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-querystring v1.1.0 h1:AnCroh3fv4ZBgVIf1Iwtovgjaw/GiKJo8M8yD/fhyJ8=
 github.com/google/go-querystring v1.1.0/go.mod h1:Kcdr2DB4koayq7X8pmAG4sNG59So17icRSOU623lUBU=
-github.com/kalntera/oauth2 v0.0.0-20240122135009-c95d7cd92931 h1:KfKYqq8XrZfqrp94SNswlCtkOYgZnZs1NfQpUxltSAk=
-github.com/kalntera/oauth2 v0.0.0-20240122135009-c95d7cd92931/go.mod h1:f0R5k1frnKoHcgZJomyCxkrKw6uIxbOtuHpNWctzN+M=
+github.com/kalntera/oauth2 v0.0.0-20240122220119-9f323bb48e79 h1:YF0ytw4pDoadTEXchSIQ8eE9CPOU9E4uEcJ422EdYTo=
+github.com/kalntera/oauth2 v0.0.0-20240122220119-9f323bb48e79/go.mod h1:kb5Ubehe+EWZrDb4+erTz9CtsE//HqYxPX6Ae/lgpRQ=
+github.com/kalntera/oauth2 v0.0.0-20240122220840-b010a8601102 h1:AgmeYmXbgidwHPDwSNjUuvjMtgy0j5d+6EliykGjnRs=
+github.com/kalntera/oauth2 v0.0.0-20240122220840-b010a8601102/go.mod h1:c4DVRw5/7Ce6s2lgQNoUL94VBbg3PBQrOBQ5+96LbtI=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
-golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 h1:E7g+9GITq07hpfrRu66IVDexMakfv52eLZ2CXBWiKr4=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 gopkg.in/guregu/null.v4 v4.0.0 h1:1Wm3S1WEA2I26Kq+6vcW+w0gcDo44YKYD7YIEJNHDjg=
 gopkg.in/guregu/null.v4 v4.0.0/go.mod h1:YoQhUrADuG3i9WqesrCmpNRwm1ypAgSHYqoOcTu/JrI=
